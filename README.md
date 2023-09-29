@@ -49,3 +49,7 @@
 7. ¿Qué es CSS?
 
  es un lenguaje de diseño gráfico para definir y crear la presentación de un documento estructurado escrito en un lenguaje de marcado.​
+
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+
+![imagen de miedosa](https://github.com/mrcsflx/practica1/blob/main/Captura%20de%20pantalla%202023-09-29%20161820.png "horror")
