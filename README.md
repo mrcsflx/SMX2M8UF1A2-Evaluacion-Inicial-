@@ -16,7 +16,7 @@
 
  son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.
 
-5. [Herramientas de Google:](https://tetris.com/play-tetris/ "Herramientas de Google:")
+5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google:")
 
 |Aplicaciones |Visto |
 |----------|:----------:|
@@ -53,5 +53,3 @@
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
 ![imagen de miedosa](https://github.com/mrcsflx/practica1/blob/main/Captura%20de%20pantalla%202023-09-29%20161820.png "horror")
-
-~~palabra~~ (ALT+126)
