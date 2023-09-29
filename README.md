@@ -16,11 +16,11 @@ son aquellos programas o aplicaciones que nos permiten manipular informáticamen
 
 |Aplicaciones |Visto |
 |----------|:----------:|
-|Google Docs|![imagen de miedosa](https://github.com/mrcsflx/repositorio2/blob/main/victor.jpg "horror")|
-|Google Slides|![imagen de miedosa](https://github.com/mrcsflx/repositorio2/blob/main/victor.jpg "horror")|
-|Google Sheets|![imagen de miedosa](https://github.com/mrcsflx/repositorio2/blob/main/victor.jpg "horror")|
-|Google Calendar|![imagen de miedosa](https://github.com/mrcsflx/repositorio2/blob/main/victor.jpg "horror")|
-|Google Meet|![imagen de miedosa](https://github.com/mrcsflx/repositorio2/blob/main/victor.jpg "horror")|
+|Google Docs|![imagen de miedosa](https://github.com/mrcsflx/practica1/blob/main/Check_mark.jpg.png "horror")|
+|Google Slides|![imagen de miedosa](https://github.com/mrcsflx/practica1/blob/main/Check_mark.jpg.png "horror")|
+|Google Sheets|![imagen de miedosa](https://github.com/mrcsflx/practica1/blob/main/Check_mark.jpg.png "horror")|
+|Google Calendar|![imagen de miedosa](https://github.com/mrcsflx/practica1/blob/main/1f5d3.png "horror")|
+|Google Meet|![imagen de miedosa](https://github.com/mrcsflx/practica1/blob/main/1f5a5.png "horror")|
 |...|...|
 
 6. ¿Qué es HTML?
