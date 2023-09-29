@@ -12,7 +12,7 @@ es un software cliente-servidor que permite realizar funciones determinadas en i
 4. ¿Qué es una herramienta ofimática?
 son aquellos programas o aplicaciones que nos permiten manipular informáticamente la información con la que se trabaja de forma habitual en una oficina.
 
-5. [Link](https://tetris.com/play-tetris/ "Herramientas de Google:")
+5. [Herramientas de Google:](https://tetris.com/play-tetris/ "Herramientas de Google:")
 
 |Aplicaciones |Visto |
 |----------|:----------:|
