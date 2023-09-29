@@ -31,6 +31,7 @@
 
  hace referencia al lenguaje de marcado para la elaboración de páginas web.
 
+```
  <!DOCTYPE htmi>
 <html lang="ei
 <head>
@@ -43,3 +44,4 @@
 
 </body>
 </html>
+```
