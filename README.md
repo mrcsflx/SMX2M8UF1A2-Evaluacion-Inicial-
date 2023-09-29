@@ -1,27 +1,20 @@
 # practica1
 
-## ¿Qué es una página web?
+1. ¿Qué es una página web?
+r_rojo Conjunto de información que se encuentra en una dirección determinada de internet.
 
-**Respuesta.**
+color = incluir("colores")
 
-## ¿Qué es un sitio web?
-
-**Respuesta.**
-
-## ¿Qué es una aplicación web?
-
-**Respuesta.**
-
-## ¿Qué es una herramienta ofimática?
-
-**Respuesta.**
-
-# Herramientas de Google
-
-## ¿Qué es HTML?
-
-**Respuesta.**
-
-## ¿Qué es CSS?
-
-**Respuesta.**
+imprimirf(color.r_verde.."\t  ,
+         ,,
+         ,
+        ::
+        ::"..color.r_rojo.."
+  .:::::::::::. 
+.::::::::::::::.
+::::::::::::::::
+::::::::::::::::  "..color.reset..color.bold.." MANZANA "..color.r_rojo.."
+ ::::::::::::::
+  ::::::::::::
+   ::::::::::
+     :::"..color.amarillo..":"..color.r_rojo..":::\n"..color.reset)
